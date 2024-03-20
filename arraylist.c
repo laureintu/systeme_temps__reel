@@ -1,4 +1,4 @@
-x#include <stdio.h>
+#include <stdio.h>
 
 int main(){
 	int tableau[5]= {4,7,1,9,15};
